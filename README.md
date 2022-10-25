@@ -27,4 +27,4 @@ Create 2nd 3rd ... pages.
 
 Go to Localhost:3000/home/about
 
-Should see the about page wit the header and footer
+Should see the about page wit the header and footer.
